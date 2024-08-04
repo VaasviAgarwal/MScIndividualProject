@@ -11,7 +11,7 @@ This React application is designed for audio accessibility intervention, featuri
 To get a copy of this application, clone the repository from GitHub:
 
 ```bash
-git clone [https://github.com/VaasviAgarwal/MScIndividualProject--NovelAccessibilityInterventionForAudio-RadioPodcastEtc/tree/main/audio-accessibility-intervention]
+git clone https://github.com/VaasviAgarwal/MScIndividualProject--NovelAccessibilityInterventionForAudio-RadioPodcastEtc/tree/main/audio-accessibility-intervention
 ```
 
 ## Directory Structure
