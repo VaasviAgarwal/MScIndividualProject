@@ -96,6 +96,19 @@ Alternatively, if you use Yarn, run:
 yarn add @fortawesome/fontawesome-free
 ```
 
+### **Configure OpenAI API Key**
+To use the OpenAI API, you need to add your own API key. Replace the placeholder API key in the code with your actual API key.
+
+Locate the OpenAI configuration in your project files App.js and update the code as follows:
+
+```javascript
+const openai = new OpenAI({
+  apiKey: "YOUR_API_KEY_HERE",
+  dangerouslyAllowBrowser: true
+});
+```
+Make sure to replace "YOUR_API_KEY_HERE" with your actual OpenAI API key.
+
 ### **Run the Application**
 
 Start the development server with:
@@ -135,4 +148,7 @@ The production build will be available in the build directory.
 **package.json:** Lists the project's dependencies and scripts.
 
 **package-lock.json:** Locks the versions of the project's dependencies.
+
+## About Project
+This project was created as part of the MSc Individual Project at King’s College London, under the project Novel Accessibility Intervention for Audio (Podcast, Radio, etc). It includes both the backend and frontend code. For preprocessing code, please refer to the .pynb file included in the project.
 
