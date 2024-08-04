@@ -29,7 +29,7 @@ function App() {
   const [GenerateVisuals, setGenerateVisuals] = useState(false);
 
   const openai = new OpenAI({
-    apiKey: "PLACE_HOLDER",
+    apiKey: "YOUR_API_KEY_HERE",
     dangerouslyAllowBrowser: true
   })
 
