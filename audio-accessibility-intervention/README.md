@@ -2,6 +2,18 @@
 
 This React application is designed for audio accessibility intervention, featuring various audio files and button images. Below is a guide on how to set up and run the application, as well as an overview of the project's directory structure.
 
+# Audio Accessibility Intervention
+
+This React application is designed for audio accessibility intervention, featuring various audio files and button images. Below is a guide on how to set up and run the application, as well as an overview of the project's directory structure.
+
+## Cloning the Repository
+
+To get a copy of this application, clone the repository from GitHub:
+
+```bash
+git clone [https://github.com/VaasviAgarwal/MScIndividualProject--NovelAccessibilityInterventionForAudio-RadioPodcastEtc/tree/main/audio-accessibility-intervention]
+```
+
 ## Directory Structure
 
 Here is an overview of the directory structure for this project:
