@@ -7,7 +7,7 @@ This repository contains a React application for audio accessibility interventio
 The repository includes the following components:
 
 - **React Application**: Located in the `audio-accessibility-intervention` directory. Detailed setup and running instructions can be found in the `README.md` file within this directory.
-- **Jupyter Notebook**: For preprocessing audio files, available as `preprocess_audio.ipynb` in the root directory.
+- **Jupyter Notebook**: For preprocessing audio files, available as `MScProject-AudioIntervention-PreProcessing.ipynb` in the root directory.
 
 ## Preprocessing Audio Files
 
